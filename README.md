@@ -1,1 +1,2 @@
 # Piscine-42-Porto
+In this repositories contains the remade exercises of Piscine at school 42 Porto, where I try to improve the first codes that I wrote during the course of Piscine and after being approved. 
